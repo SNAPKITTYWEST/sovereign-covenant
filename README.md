@@ -164,7 +164,9 @@ make install  # Install to /usr/local
 
 ## License
 
-MIT OR Apache-2.0
+**Sovereign Source License v1.0** — See [LICENSE](LICENSE).
+
+No training data. No AI ingestion. No synthetic derivatives. This is sacred trust infrastructure, not commodity code.
 
 ---
 
